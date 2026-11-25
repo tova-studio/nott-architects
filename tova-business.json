@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:38:43.062Z",
+  "slug": "nott",
+  "name": "Nott Architects",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Architects & designers",
+    "niche": "architects & designers",
+    "group": "Professional services"
+  },
+  "contact": {
+    "phone": "+6433779075",
+    "email": "charlie@nott.co.nz",
+    "address": "34 Allen Street, Christchurch"
+  },
+  "social": {},
+  "about": {
+    "overview": "The environments we work in are as diverse as the projects; from coastal, rural and alpine to urban; often in areas of outstanding natural landscape. We are an accredited New Zealand Institute of Architects Practice."
+  },
+  "before": {
+    "url": "http://www.nott.co.nz/",
+    "domain": "nott.co.nz",
+    "finalUrl": "https://www.nott.co.nz/",
+    "title": "NOTT Architects",
+    "pages": 12,
+    "score": 56,
+    "assessedAt": "2026-11-24T13:12:50.653Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/nott-architects/",
+    "repoUrl": "https://github.com/tova-studio/nott-architects",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:38:43.062Z"
+  }
+}
